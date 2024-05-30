@@ -31,6 +31,4 @@ fun main() {
 
     println("평균 나이 : ${avgAge(arr)}")
     println("평균 급여 : ${avgSalary(arr)}")
-
-    println("name=$")
 }
